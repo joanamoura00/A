@@ -6,3 +6,15 @@ In this data analysis project, based on the data set chosen, we tried to study a
    
 The studied dataset is composed by 3198 observations of the type of the wine Red or White and other 12 variables, the fixed acidity, the volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulfates, alcohol and quality. 
 
+For this purpose, the following evaluations were conducted:
+
+-> Calculation of Mean, Standard Deviation, Variance, and Correlation
+-> Visualization of Histograms
+-> T-Test and requisites: equal variance, independence, normal distribution
+-> Q-Q plot
+-> Power of T-Test
+-> Bootstrap
+-> Confidence Interval
+-> Linear Regression
+-> Stardard Least Squares Method
+-> Elastic Net Regression (K-Fold Cross Validation) 
